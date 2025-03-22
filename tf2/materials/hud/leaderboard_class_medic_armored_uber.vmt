@@ -1,0 +1,9 @@
+"UnlitGeneric"
+{
+	"$basetexture" "hud/leaderboard_class_medic_armored_uber"
+	"%keywords" "tf"
+	"$no_fullbright" 1
+	"$translucent" 1
+	"$vertexcolor" 1
+	"$ignorez" 1
+}

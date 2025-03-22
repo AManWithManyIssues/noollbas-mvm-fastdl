@@ -1,0 +1,8 @@
+"UnlitGeneric"
+{
+	"$basetexture" "hud/leaderboard_class_soldier_mangler_fire_conch_extended"
+	"$no_fullbright" 1
+	"$ignorez" 1
+	"%keywords" "tf"
+	"$translucent" 1
+}
